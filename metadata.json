@@ -1,0 +1,6 @@
+{
+  "name": "Detektyw Kret: Podziemne Śledztwa",
+  "description": "Przytulna gra platformowo-detektywistyczna w świecie krecich nor. Zmiana pory dnia, zagadki kryminalne, mądra Sowa i podziemne tajemnice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
