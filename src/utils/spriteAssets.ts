@@ -1,10 +1,16 @@
-// Bitmap Sprite Asset Paths generated via image generation tool
+import kretImg from '../assets/images/kret_detective_1794499977527.jpg';
+import sowaImg from '../assets/images/owl_wizard_1794499979122.jpg';
+import lisImg from '../assets/images/fox_felix_1794499979593.jpg';
+import borsukImg from '../assets/images/badger_barnaba_1794499979555.jpg';
+import jezImg from '../assets/images/hedgehog_igielka_1794499979801.jpg';
+
+// Bitmap Sprite Asset Paths bundled by Vite
 export const SPRITE_URLS = {
-  kret: '/src/assets/images/kret_detective_1794499977527.jpg',
-  sowa: '/src/assets/images/owl_wizard_1794499979122.jpg',
-  lis: '/src/assets/images/fox_felix_1794499979593.jpg',
-  borsuk: '/src/assets/images/badger_barnaba_1794499979555.jpg',
-  jez: '/src/assets/images/hedgehog_igielka_1794499979801.jpg',
+  kret: kretImg,
+  sowa: sowaImg,
+  lis: lisImg,
+  borsuk: borsukImg,
+  jez: jezImg,
 };
 
 class SpriteManager {
